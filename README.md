@@ -1,0 +1,1 @@
+# Supporting resources for Powerhsell 10962

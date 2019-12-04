@@ -1,0 +1,4 @@
+﻿<computers>
+    <computer name="LON-DC1" osversion="" spversion="" biosserial="" />
+    <computer name="LON-SVR1" osversion="" spversion="" biosserial="" />
+</computers>
